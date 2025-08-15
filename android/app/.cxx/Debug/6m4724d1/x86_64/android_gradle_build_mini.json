@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/macbookprom1/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/macbookprom1/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/macbookprom1/Desktop/zain/item/lottery/android/app/.cxx/Debug/6m4724d1/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/macbookprom1/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/macbookprom1/Desktop/zain/item/lottery/android/app/.cxx/Debug/6m4724d1/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+/Users/macbookprom1/Desktop/zain/item/lottery/android/app/.cxx/Debug/6m4724d1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/macbookprom1/Desktop/zain/item/lottery/android/app/.cxx/Debug/6m4724d1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
